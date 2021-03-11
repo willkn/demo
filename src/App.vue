@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <title>Campsall</title>
+    <!-- <title>Campsall</title> -->
     <Navbar></Navbar>
     <router-view />
   </div>
